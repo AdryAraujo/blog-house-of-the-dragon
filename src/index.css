@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background-teste);
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+:root {
+  --primary-color: #591608;
+  --secondary-color: #142810;
+  --tertiary-color: #ffffff;
+  --tittle-color: #F2D589;
+  --cinza-color: rgb(41, 40, 40, 0.5);
+
+  --green-opaque: rgb(20, 40, 16, 0.6);
+
+  --navbar-color: rgb(14, 13, 13, 0.7);
+
+  --background-color: #000000;
+  --background-teste: #0B0B0B;
+  --background-modal: #131415;
+
+  --shadow-black-modal: 4px 4px 4px rgba(0,0,0, 0.2);
+  --shadow-black-buttons: 4px 4px 4px rgba(0,0,0, 0.2);
+}
+
+@font-face {
+  font-family: Game of Thrones;
+  src: url('/Game-of-Thrones.ttf');
+}
+
+h1, h2{
+  font-family: 'Game of Thrones';
+  color: var(--tittle-color);
+  letter-spacing: 4px;
+  font-weight: 400;
+}
