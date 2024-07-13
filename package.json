@@ -1,8 +1,8 @@
 {
   "name": "blog-house-of-the-dragon",
+  "version": "0.0.0",
   "homepage": "https://AdryAraujo.github.io/blog-house-of-the-dragon",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
