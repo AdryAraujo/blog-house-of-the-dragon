@@ -1,7 +1,7 @@
 import { useLocation } from "react-router-dom";
 import './Characters.css';
 import Navbar from "../../components/navbar/Navbar";
-import { CharactersList } from "./CharactersList";
+// import { CharactersList } from "./CharactersList";
 
 export function CharactersMainPage() {
 
@@ -21,7 +21,7 @@ export function CharactersMainPage() {
                     <p>{descricion}</p>
                 </div>
             </div>
-            <CharactersList />
+            {/* <CharactersList /> */}
         </div>
     )
 }

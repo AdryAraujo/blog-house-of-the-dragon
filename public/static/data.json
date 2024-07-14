@@ -21,23 +21,8 @@
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
     },
     {
-      "name": "Otto Hightower" ,
-      "image": "http://localhost:5173/static/assets/otto13.jpg",
-     "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-
-    },
-    {
-      "name": "Criston Cole" ,
-      "image": "http://localhost:5173/static/assets/cristonsvg.svg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Jaecarys" ,
-      "image": "http://localhost:5173/static/assets/jacesvg.svg",
+      "name": "Aemond Targaryen" ,
+      "image": "http://localhost:5173/static/assets/horizontal.jpg",
       "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
       "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
@@ -57,8 +42,8 @@
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
     },
     {
-      "name": "Aemond Targaryen" ,
-      "image": "http://localhost:5173/static/assets/horizontal.jpg",
+      "name": "Criston Cole" ,
+      "image": "http://localhost:5173/static/assets/cristonsvg.svg",
       "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
       "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
@@ -66,6 +51,35 @@
     {
       "name": "Aegon Targaryen" ,
       "image": "http://localhost:5173/static/assets/aegonsvg.svg",
+     "imageProfile":"http://localhost:5173/static/assets/characters/aegonMain.svg",
+      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
+      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+    },
+    {
+      "name": "Jaecarys Velaryon" ,
+      "image": "http://localhost:5173/static/assets/jacesvg.svg",
+      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
+      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
+      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+    },
+    {
+      "name": "Baela Targaryen" ,
+      "image": "http://localhost:5173/static/assets/baela.svg",
+      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
+      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
+      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+    },
+    {
+      "name": "Otto Hightower" ,
+      "image": "http://localhost:5173/static/assets/otto13.jpg",
+     "imageProfile":"http://localhost:5173/static/assets/characters/otto.svg",
+      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
+      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+
+    },
+    {
+      "name": "Larys Strong" ,
+      "image": "http://localhost:5173/static/assets/larys.svg",
      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
       "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
@@ -74,6 +88,20 @@
       "name": "Helaena Targaryen" ,
       "image": "http://localhost:5173/static/assets/textless-helaena-targaryen-house-of-the-dragon-s2-2024-v0-zpu5klu5rs3d1.jpg",
      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
+      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
+      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+    },
+    {
+      "name": "Rhaena Targaryen" ,
+      "image": "http://localhost:5173/static/assets/rhaena.svg",
+      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
+      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
+      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+    },
+    {
+      "name": "Lucerys Velaryon" ,
+      "image": "http://localhost:5173/static/assets/luke.jpg",
+      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
       "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
     }

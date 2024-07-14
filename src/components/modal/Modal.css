@@ -14,8 +14,8 @@
 .content-modal{
     background-color: #131415;
     color: var(--tertiary-color);
-    height: 45%;
-    width: 30%;
+    height: 405px;
+    width: 480px;
     border-radius: 12px;
     display: flex;
     justify-content: space-evenly;
@@ -24,6 +24,8 @@
     box-shadow: var( --shadow-black-modal);
     gap: 24px;
     padding: 12px;
+    text-align: center;
+    font-size: 1.3rem;
 }
 
 .buttons-close{
@@ -45,4 +47,42 @@
 #image-green{
     width: 70%;
     height: 40%;
+}
+
+@media(max-width: 425px){
+    .content-modal{
+        height: 45%;
+        width: 80%;
+    }
+
+    #image-black{
+        width: 80%;
+        height: 70%;
+    }
+
+    #image-green{
+        width: 80%;
+        height: 60%;
+    }
+
+    .content-modal{
+        font-size: 1.1rem;
+    }
+}
+
+@media(max-width: 1024px){
+    .content-modal{
+        height: 50%;
+        width: 60%;
+    }
+
+    #image-black{
+        width: 55%;
+        height: 80%;
+    }
+
+    #image-green{
+        width: 70%;
+        height: 60%;
+    }
 }
