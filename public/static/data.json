@@ -1,13 +1,13 @@
 [
     {
       "name": "Daemon Targaryen" ,
-      "image": "http://localhost:5173/static/assets/daemon1.jpg",
+      "image": "http://localhost:5173/static/assets/testesvg.svg",
       "descricionSummary": "Princípe Daemon Targaryen, filho do princípe Baelon Targaryen, irmão do Rei Viserys, foi um grande guerreiro, sanguinário inclusive, monta o dragão Caraxes. Foi ",
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
     },
     {
       "name": "Rhaenyra Targaryen" ,
-      "image": "http://localhost:5173/static/assets/rhaenyra1.jpg",
+      "image": "http://localhost:5173/static/assets/rhaenyrasvg.svg",
       "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
       "descricionSummary": "Rhaenyra Targaryen foi a filha primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio Daemon Targaryen rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro.",
       "descricion": 
@@ -30,14 +30,14 @@
     },
     {
       "name": "Criston Cole" ,
-      "image": "http://localhost:5173/static/assets/criston1.jpg",
+      "image": "http://localhost:5173/static/assets/cristonsvg.svg",
       "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
       "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
     },
     {
       "name": "Jaecarys" ,
-      "image": "http://localhost:5173/static/assets/criston1.jpg",
+      "image": "http://localhost:5173/static/assets/jacesvg.svg",
       "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
       "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
@@ -65,7 +65,7 @@
     },
     {
       "name": "Aegon Targaryen" ,
-      "image": "http://localhost:5173/static/assets/aegon.jpg",
+      "image": "http://localhost:5173/static/assets/aegonsvg.svg",
      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
       "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
       "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
