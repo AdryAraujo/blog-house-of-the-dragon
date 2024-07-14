@@ -10,7 +10,7 @@ export function Carousel() {
     const carousel = useRef(null);
 
     useEffect(() => {
-        fetch('http://localhost:5173/static/data.json')
+        fetch('https://blog-house-of-the-dragon.vercel.app/static/data.json')
             .then((response) => response.json())
             .then(setData);
     }, []);
