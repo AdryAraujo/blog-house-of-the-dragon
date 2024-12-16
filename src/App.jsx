@@ -7,6 +7,7 @@ import logoGreen from './assets/DOURADO.png';
 import { Carousel } from "./components/carousel/Carousel";
 import { useState } from "react";
 import { Modal } from "./components/modal/Modal";
+import Footer from "./components/footer/Footer";
 
 function App() {
 
@@ -50,6 +51,7 @@ function App() {
           <button id="button-red">Saiba Mais</button>
         </div>
       </div>
+      <Footer/>
 
     </div>
   );
