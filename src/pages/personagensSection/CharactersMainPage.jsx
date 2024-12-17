@@ -1,7 +1,7 @@
 import { useLocation } from "react-router-dom";
 import './Characters.css';
 import Navbar from "../../components/navbar/Navbar";
-import { CharactersList } from "./CharactersList";
+// import { CharactersList } from "./CharactersList";
 
 export function CharactersMainPage() {
 
@@ -17,11 +17,11 @@ export function CharactersMainPage() {
             <div className="list-item content-list" key={name}>
                 <img className="image-main" src={imageProfile} alt="" />
                 <div className='list-text text-descricion'>
-                    <h1>{name}</h1>
+                    <h1 id="tittle">{name}</h1>
                     <p>{descricion}</p>
                 </div>
             </div>
-            <CharactersList />
+            {/* <CharactersList /> */}
         </div>
     )
 }
