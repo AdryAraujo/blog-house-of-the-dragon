@@ -1,108 +1,106 @@
 [
-    {
-      "name": "Daemon Targaryen" ,
-      "image": "http://localhost:5173/static/assets/testesvg.svg",
-      "descricionSummary": "Princípe Daemon Targaryen, filho do princípe Baelon Targaryen, irmão do Rei Viserys, foi um grande guerreiro, sanguinário inclusive, monta o dragão Caraxes. Foi ",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Rhaenyra Targaryen" ,
-      "image": "http://localhost:5173/static/assets/rhaenyrasvg.svg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a filha primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio Daemon Targaryen rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro.",
-      "descricion": 
-      "Rhaenyra Targaryen foi a filha primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio Daemon Targaryen rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro.\nO primeiro marido da Rhaenyra foi seu primo Leanor Velaryon."
-    },
-    {
-      "name": "Alicent Hightower" ,
-      "image": "http://localhost:5173/static/assets/alicent1.jpg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Aemond Targaryen" ,
-      "image": "http://localhost:5173/static/assets/horizontal.jpg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Corlys Velaryon" ,
-      "image": "http://localhost:5173/static/assets/corlys1.jpg",
-     "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Rhaenys Velaryon" ,
-      "image": "http://localhost:5173/static/assets/rhaenys123.jpg",
-     "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Criston Cole" ,
-      "image": "http://localhost:5173/static/assets/cristonsvg.svg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Aegon Targaryen" ,
-      "image": "http://localhost:5173/static/assets/aegonsvg.svg",
-     "imageProfile":"http://localhost:5173/static/assets/characters/aegonMain.svg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Jaecarys Velaryon" ,
-      "image": "http://localhost:5173/static/assets/jacesvg.svg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Baela Targaryen" ,
-      "image": "http://localhost:5173/static/assets/baela.svg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Otto Hightower" ,
-      "image": "http://localhost:5173/static/assets/otto13.jpg",
-     "imageProfile":"http://localhost:5173/static/assets/characters/otto.svg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-
-    },
-    {
-      "name": "Larys Strong" ,
-      "image": "http://localhost:5173/static/assets/larys.svg",
-     "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Helaena Targaryen" ,
-      "image": "http://localhost:5173/static/assets/textless-helaena-targaryen-house-of-the-dragon-s2-2024-v0-zpu5klu5rs3d1.jpg",
-     "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Rhaena Targaryen" ,
-      "image": "http://localhost:5173/static/assets/rhaena.svg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    },
-    {
-      "name": "Lucerys Velaryon" ,
-      "image": "http://localhost:5173/static/assets/luke.jpg",
-      "imageProfile":"http://localhost:5173/static/assets/characters/rhaenyra-coroa.jpg",
-      "descricionSummary": "Rhaenyra Targaryen foi a primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro",
-      "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
-    }
+  {
+    "name": "Daemon Targaryen",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/testesvg.svg",
+    "descricionSummary": "Princípe Daemon Targaryen, filho do princípe Baelon Targaryen, irmão do Rei Viserys, foi um grande guerreiro sanguinário, monta o dragão Caraxes. Foi um personagem bem importante na dança dos dragões, evento no qual sua esposa e sobrinha Rhaenyra Targaryen, luta contra seu meio irmão Aegon Targaryen para obter o trono de ferro.",
+    "descricion": "Neto do Rei Jaehaerys I Targaryen, Daemon era o irmão mais novo de Viserys I. Durante um tempo, ele foi o herdeiro ao Trono de Ferro, mas Viserys sempre buscara um filho homem para substituir Daemon como Príncipe de Pedra do Dragão. Durante o reinado do seu irmão, ele serviu como Mestre das Leis e da Moeda, mas acabou crescendo uma rivalidade com alguns membros do Pequeno Conselho, especialmente Sor Otto Hightower. Esta rivalidade foi contida por Viserys I ao nomear o irmão Comandante da Patrulha da Cidade de Porto Real, um cargo que combinou com ele. Daemon reformulou a Patrulha da Cidade e acabou se tornando uma figura conhecida na Baixada das Pulgas, frequentando bordéis e agindo de forma cruel e violenta com criminosos. Ele chegou a ter um relacionamento amoroso com Mysaria, uma prostituta estrangeira, mesmo sendo casado com Rhea Royce de Pedrarruna na época. Algum tempo depois, Lorde Corlys Velaryon convidou Daemon até Derivamarca para se aliarem contra a Triarquia nos Degraus e derrotar Craghas Drahar. Daemon guerreou nos Degraus por três anos sem auxílio da coroa.Eventualmente Viserys I se casaria novamente e teria filhos homens, Aegon e Aemond, mas se recusaria a mudar a sucessão, mantendo Rhaenyra como Princesa de Pedra do Dragão. Após a morte do rei, Daemon apoiou a reivindicação de Rhaenyra, chegando-se a casar com ela e tendo dois filhos, Aegon e Viserys. Eles enfrentaram Aegon II e seus apoiadores durante uma extensa guerra conhecida como Dança dos Dragões."
+  },
+  {
+    "name": "Rhaenyra Targaryen",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/rhaenyrasvg.svg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Rhaenyra Targaryen foi a filha primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio Daemon Targaryen rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos, é a principal participante da Dança dos Dragões, guerra em que ela e seu meio irmão travam para conquistar o trono de ferro.",
+    "descricion": "Rhaenyra Targaryen foi a filha primogênita do Rei Viserys I Targaryen e verdadeira herdeira do Trono de Ferro em Westeros. Desde a infância, Rhaenyra era uma cavaleira de dragão talentosa, montando a poderosa Syrax, além de uma sensata aspirante ao trono, previnindo conflitos quando seu tio Daemon Targaryen rouba um ovo de dragão da Coroa. Teve 2 casamentos e 5 filhos e principal participante da Dança dos Dragões, guerra em que ela e seu irmão travam para conquistar o trono de ferro.\nO primeiro marido da Rhaenyra foi seu primo Leanor Velaryon."
+  },
+  {
+    "name": "Alicent Hightower",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/alicent1.jpg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Rainha Alicent Hightower era a filha de Otto Hightower e segunda esposa do Rei Viserys I Targaryen, com quem teve três filhos, Aegon, Helaena e Aemond Targaryen. Quando o rei veio a falecer, ela apoiou a reivindicação de seu filho Aegon acima da filha de Viserys I com sua primeira esposa, a Princesa Rhaenyra Targaryen, o que acabou culminando na guerra civil conhecida como Dança dos Dragões.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Aemond Targaryen",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/horizontal.jpg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Príncipe Aemond Targaryen, conhecido também como Aemond Caolho, era o filho mais novo do Rei Viserys I Targaryen com a Rainha Alicent Hightower. Ele monatava Vhagar, o último dragão da época da Guerra da Conquista. Temido e cruel, Aemond foi um participante de grande importância na guerra civil Targaryen conhecida como a Dança dos Dragões, onde lutou ao lado de seu irmão Aegon II contra sua meia-irmã Rhaenyra Targaryen pelo Trono de Ferro.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Corlys Velaryon",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/corlys1.jpg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Corlys Velaryon, conhecido como a Serpente Marinha, foi um famoso navegador e membro da Casa Velaryon, casado com a Princesa Rhaenys Velaryon, mais conhecida como rainha que nunca foi, apoiou a Princesa Rhaenyra Targaryen durante a Dança dos Dragões.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Rhaenys Velaryon",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/rhaenys123.jpg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Princesa Rhaenys Velaryon, nascida e também conhecida como Rhaenys Targaryen, além do apelido de Rainha Que Nunca Foi, era a neta de Jaehaerys I e prima de Viserys I, tendo disputado e perdido o Trono de Ferro para este último no Grande Conselho de 101 d.C.. Rhaenys era a montadora do dragão Meleys e esposa de Corlys Velaryon, com quem teve a filha Laena e o filho Laenor Velaryon. Durante a Dança dos Dragões, ela apoiou a reinvindicação da Princesa Rhaenyra Targaryen, casando seus filhos com ela e Daemon.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Criston Cole",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/cristonsvg.svg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Sor Criston Cole era um cavaleiro da Casa Cole que se tornou membro da Guarda Real do Rei Viserys I Targaryen, mais precisamente, juramentado a Princesa Rhaenyra, a qual teve um caso amoroso, após ser rejeitado pela mesma, se volta contra ela, se juntando a Rainha Aliecent e os verdes para por Aegon II no trono após a morte do Rei Viserys.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Aegon II Targaryen",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/aegonsvg.svg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/aegonMain.svg",
+    "descricionSummary": "Rei Aegon II Targaryen foi o filho do Rei Viserys I com a Rainha Alicent Hightower. Ele foi coroado após a morte do pai, que deixou ordens para que sua filha mais velha, a Princesa Rhaenyra, herdasse o Trono de Ferro. No entanto a Rainha Alicent, manipulada pelo pai Otto colocou seu filho, causando a guerra civil que ficou conhecida como a Dança dos Dragões.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Jaecarys Velaryon",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/jacesvg.svg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Príncipe Jacaerys Velaryon era o filho de Laenor Velaryon com a Princesa Rhaenyra Targaryen. Durante a Dança dos Dragões, sua mãe se opôs ao Rei Aegon II e se coroou em Pedra do Dragão. Jacaerys a apoiou junto de seu dragão, Vermax, mas foi morto na Batalha da Goela pela Triarquia.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Baela Targaryen",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/baela.svg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Lady Baela Targaryen é a filha mais velha de Daemon Targaryen e Laena Velaryon. Ela se torna pupila de Rhaenys Targaryen após a morte de sua mãe e a aparente morte de Laenor Velaryon.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Otto Hightower",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/otto13.jpg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/otto.svg",
+    "descricionSummary": "Sor Otto Hightower foi um cavaleiro que serviu como Mão do Rei Jaehaerys I Targaryen após a morte de seu filho, Baelon. Ele também serviu posteriormente o Rei Viserys I e seu filho, Aegon II Targaryen. Otto foi um dos responsáveis por coroar Aegon II como sucessor de Viserys I a frente da Princesa Rhaenyra Targaryen, dando início a guerra civil conhecida como Dança dos Dragões.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Larys Strong",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/larys.svg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Larys Strong, conhecido como Larys Pé Torto ou Pé Torto, foi o Senhor de Harrenhal e chefe da Casa Strong durante a última parte do reinado de Viserys I Targaryen e o reinado de Aegon II Targaryen.Ele serviu no Pequeno Conselho como o Mestre dos Sussurros e Lorde de Tortura dos dois reis.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Helaena Targaryen",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/textless-helaena-targaryen-house-of-the-dragon-s2-2024-v0-zpu5klu5rs3d1.jpg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Rainha Helaena Targaryen foi a segunda filha de Viserys I Targaryen, nascida em seu segundo casamento, fruto da Rainha Alicent Hightower. Helaena se casou com seu irmão mais velho, o Rei Aegon II Targaryen, e foi mãe de três crianças, Jaehaerys, Jaehaera e Maelor Targaryen, nenhum dos três tendo deixado herdeiro. acabou ficando extremamente abalada e afetada durante a Dança dos Dragões quando dois assassinos contratados por Daemon Targaryen, Sangue e Queijo, a fizeram escolher qual dos seus filhos Helaena queria que eles matassem. Ela acabaria cometendo suicídio na Fortaleza de Maegor.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Rhaena Targaryen",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/rhaena.svg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Lady Rhaena Targaryen, conhecida como Rhaena de Pentos[1] e Rhaena Corbray,[2] foi uma das filhas gêmeas do Príncipe Daemon Targaryen e Lady Laena Velaryon. Durante a Dança dos Dragões, Rhaena foi escolhida para acompanhar o Príncipe Joffrey Velaryon a Vila Gaivota para sua proteção, embora tenham sido informados de que era para defender o Vale de Arryn contra Dragões do Rei Aegon II Targaryen. Rhaena trouxe três ovos de dragão com ela para o Vale, onde rezava todas as noites para que eclodissem.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  },
+  {
+    "name": "Lucerys Velaryon",
+    "image": "https://blog-house-of-the-dragon.vercel.app/static/assets/luke.jpg",
+    "imageProfile": "https://blog-house-of-the-dragon.vercel.app/static/assets/characters/rhaenyra-coroa.jpg",
+    "descricionSummary": "Príncipe Lucerys Velaryon foi o segundo filho da Princesa Rhaenyra Targaryen com Laenor Velaryon (oficialmente kkkk), irmão mais novo de Jacaerys e mais velho de Joffrey Velaryon. Quando a Dança dos Dragões teve início, ele foi até Ponta Tempestade tentar convencer o Lorde Borros Baratheon a apoiar a reivindicação de sua mãe ao Trono de Ferro. No entanto, seu tio Aemond Targaryen havia já conquistado Ponta Tempestade para o Rei Aegon II Targaryen.",
+    "descricion": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam sint in cumque sapiente perspiciatis dolorem incidunt, praesentium beatae placeat nihil eum optio quas, quam dicta a molestiae illum quis ipsam."
+  }
 ]
