@@ -9,13 +9,13 @@ export function CharactersMainPage() {
     const name = location.state.name;
     //const descricionSummary = location.state.descricionSummary;
     const descricion = location.state.descricion;
-    const imageProfile = location.state.imageProfile;
+    const image = location.state.image;
 
     return (
         <div className="container-main">
             <Navbar />
             <div className="list-item content-list" key={name}>
-                <img className="image-main" src={imageProfile} alt="" />
+                <img className="image-main" src={image} alt="" />
                 <div className='list-text text-descricion'>
                     <h1 id="tittle">{name}</h1>
                     <p>{descricion}</p>

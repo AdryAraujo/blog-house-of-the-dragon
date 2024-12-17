@@ -1,9 +1,10 @@
 import { useEffect, useRef, useState } from 'react';
 import './Characters.css';
+import { Navigate, useNavigate } from 'react-router-dom';
 
 export function CharactersList() {
 
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
     const [data, setData] = useState([]);
     const carousel = useRef(null);
 
@@ -12,6 +13,11 @@ export function CharactersList() {
             .then((response) => response.json())
             .then(setData);
     }, []);
+
+    function handleRedirectToInfo(name, descricion, image) {
+        navigate(`/personagemEscolhido`, { state: { name, descricion, image } }); // Redireciona com state
+        console.log("chegou aqui")
+      }
 
     return (
         <div>
@@ -24,7 +30,10 @@ export function CharactersList() {
                             <div className='list-text'>
                                 <h2>{name}</h2>
                                 <p>{descricionSummary}</p>
-                                <button className='button-learn'>Saiba Mais</button>
+                                <button 
+                                className='button-learn'
+                                onClick={() => handleRedirectToInfo(name, descricion, image)}
+                                >Saiba Mais</button>
                             </div>
                         </div>
                     )
