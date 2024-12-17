@@ -16,7 +16,7 @@ export function CharactersMainPage() {
             <div className="list-item content-list" key={name}>
                 <img className="image-main" src={image} alt="" />
                 <div className='list-text text-descricion'>
-                    <h1 id="tittle">{name}</h1>
+                    <h1>{name}</h1>
                     <p>{descricion}</p>
                 </div>
             </div>
