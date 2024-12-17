@@ -16,8 +16,7 @@ export function CharactersList() {
 
     function handleRedirectToInfo(name, descricion, image) {
         navigate(`/personagemEscolhido`, { state: { name, descricion, image } }); // Redireciona com state
-        console.log("chegou aqui")
-      }
+    }
 
     return (
         <div>
@@ -30,9 +29,9 @@ export function CharactersList() {
                             <div className='list-text'>
                                 <h2>{name}</h2>
                                 <p>{descricionSummary}</p>
-                                <button 
-                                className='button-learn'
-                                onClick={() => handleRedirectToInfo(name, descricion, image)}
+                                <button
+                                    className='button-learn'
+                                    onClick={() => handleRedirectToInfo(name, descricion, image)}
                                 >Saiba Mais</button>
                             </div>
                         </div>
